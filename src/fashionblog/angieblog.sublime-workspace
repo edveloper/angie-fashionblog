@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"join"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"s",
+				"speed"
+			],
+			[
+				"lef",
+				"left-bg-color"
+			],
+			[
+				"righ",
+				"right-bg-color"
+			],
+			[
+				"l",
+				"left-bg-color"
+			],
+			[
+				"backgo",
+				"background-size"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"co",
+				"container-bg-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"translate",
+				"translateX()"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"fontf",
+				"font-family"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"bak",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 3120,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "rstconfig.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 753,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Philo/Desktop/Projects/angieblog",
+		"/C/Users/Philo/Desktop/Projects/angieblog/src",
+		"/C/Users/Philo/Desktop/Projects/angieblog/src/fashionblog",
+		"/C/Users/Philo/Desktop/Projects/angieblog/src/fashionblog/__pycache__"
+	],
+	"file_history":
+	[
+		"/C/Users/Philo/Desktop/Projects/angieblog/src/fashionblog/__pycache__/rstconfig.py",
+		"/C/Users/Philo/Desktop/Projects/djangoboy/src/pages/views.py",
+		"/C/Users/Philo/Desktop/Projects/djangoboy/src/templates/home.html",
+		"/C/Users/Philo/Desktop/Projects/djangoboy/src/jamiefox/settings.py",
+		"/C/Users/Philo/Desktop/Projects/djangoboy/src/shop/tests.py",
+		"/C/Users/Philo/Desktop/Projects/djangoboy/src/jamiefox/urls.py",
+		"/F/Java/heyjs.html",
+		"/F/Java/helloworld.js",
+		"/F/tasks/learnjs.js",
+		"/F/tasks/marks.html",
+		"/F/tasks/jspractise.js",
+		"/C/Users/Philo/Desktop/HTML Cheatsheet/index.html",
+		"/C/Users/Philo/Desktop/HTML Cheatsheet/blog.html",
+		"/C/Users/Philo/Desktop/CSS Beginners Crash course/index.html",
+		"/C/Users/Philo/Desktop/CSS Beginners Crash course/style.css",
+		"/C/Users/Philo/Desktop/CSS Beginners Crash course/csscheatsheet.css",
+		"/F/tasks/blog.html",
+		"/F/tasks/first.java",
+		"/F/tasks/js.html",
+		"/F/WebDevBC/practise.js",
+		"/F/WebDevBC/orderform.php",
+		"/F/WebDevBC/orderform.html",
+		"/F/WebDevBC/HelloWorld.java",
+		"/F/WebDevBC/firstPage.html",
+		"/F/cssgrid/index.html",
+		"/F/cssgrid/index2.html",
+		"/F/cssgrid/index3.html",
+		"/F/index.html",
+		"/F/style.css",
+		"/F/main.js",
+		"/F/interact.js",
+		"/F/css/new.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1086,
+								1086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 368.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rstconfig.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "urls.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angieblog.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
